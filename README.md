@@ -1,6 +1,7 @@
-# AngularFirebase
+# Angular-Firebase
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
+This project is integrated with firebase which let's you create modify and delete employee data on your screen while interacting with firebase operations in the backend.
 
 ## Development server
 
